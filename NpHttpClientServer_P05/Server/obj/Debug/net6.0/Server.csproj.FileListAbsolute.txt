@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\bin\Debug\net6.0\Server.exe
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\bin\Debug\net6.0\Server.deps.json
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\bin\Debug\net6.0\Server.dll
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\bin\Debug\net6.0\Server.pdb
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.dll
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\refint\Server.dll
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.pdb
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+\\Mac\Home\Downloads\NpHttpClientServer_P05\Server\obj\Debug\net6.0\ref\Server.dll
